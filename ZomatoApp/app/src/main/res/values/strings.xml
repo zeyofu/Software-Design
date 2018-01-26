@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant Browsing</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="website">Search Website</string>
+    <string name="price">Price Range</string>
+    <string name="cost">Average Cost for Two: </string>
+</resources>
