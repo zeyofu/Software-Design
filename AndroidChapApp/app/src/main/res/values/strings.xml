@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Eagle Shot</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="send_location">Send Current Location</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="delete_record">Delete All record</string>
+    <string name="add_user">Add Member</string>
+</resources>
